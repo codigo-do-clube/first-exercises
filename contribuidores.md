@@ -2,3 +2,4 @@
 - Gustavo
 - Juliana
 - Rodrigo
+- Wellington Patrick
