@@ -4,4 +4,4 @@
 - Rodrigo
 - Wellington Patrick
 - Randall-chan
-Stella
+- Stella
