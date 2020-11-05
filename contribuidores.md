@@ -5,3 +5,4 @@
 - Wellington Patrick
 - Randall-chan
 - Stella
+- Gabriel Lana
