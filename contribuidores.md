@@ -6,3 +6,4 @@
 - Randall-chan
 - Stella
 - Gabriel Lana
+- Pietro
