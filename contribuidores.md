@@ -8,5 +8,3 @@
 - Seu Zé
 - Stella
 - Wellington Patrick
-
-
