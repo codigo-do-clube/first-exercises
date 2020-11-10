@@ -5,6 +5,6 @@
 - Pietro
 - Randall-chan
 - Rodrigo
-- Seu Zé
+- Seu zé
 - Stella
 - Wellington Patrick
